@@ -23,9 +23,9 @@ Sou estudante de Sistemas para Internet na [Unipê](https://www.unipe.edu.br/)
 
 ### Projeto Landing Page 
 
-projeto criado com todo o visual em html e css de uma forma simples e dinâmica.
+projeto criado com todo o visual em html e css de uma forma simples e dinâmica de uma landing page direcionada ao NISSAN GTR R34.
 
-
+<a href="https://albqvictor1508.github.io/landingPage/">Landing Page NISSAN GTR R34</a>
 
 
 
